@@ -17,19 +17,19 @@
 2. **安裝MinGW**
     - 運行`mingw-get-setup.exe`安裝程序
     - 選擇下載目錄並點擊`Continue`
-    ![安裝示例圖](llama-cpp\Windows-Installation\Images\image_1.png)
+    ![安裝示例圖](./Images/image_1.png)
 3. **選擇下面的選項，點擊`Apply Change`**
-    ![配置示例圖](llama-cpp\Windows-Installation\Images\image_2.png)
+    ![配置示例圖](./Images/image_2.png)
 4. **新增環境變數**
     - 把MinGW的路徑加入到環境變數中
     - 驗證安裝：在終端機中使用下方命令
     ```bash
     mingw32-make
     ```
-    ![環境變數示例圖](llama-cpp\Windows-Installation\Images\image_3.png)
+    ![環境變數示例圖](./Images/image_3.png)
 5. **命令別名**
     - 在`MinGW\bin`路徑中複製`mingw32-make`，並將副本重新命名為`make`
-    ![命令別名示例圖](llama-cpp\Windows-Installation\Images\image_4.png)
+    ![命令別名示例圖](./Images/image_4.png)
 
 ## 安裝llama.cpp步驟
 
@@ -82,15 +82,15 @@ python3 convert.py models/7B/
 cd llama.cpp
 ./main -m ./zh-models/7B/ggml-model-q4_0.gguf --color -f prompts/alpaca.txt -ins -c 2048 --temp 0.2 -n 256 --repeat_penalty 1.1
 ```
-![命令行對話介面示例圖1](llama-cpp\Windows-Installation\Images\image_5.png)
+![命令行對話介面示例圖1](./Images/image_5.png)
 ### Web介面方式
 ```bash
 cd llama.cpp
 .\server -m .\zh-models\7B\alpaca\ggml-model-q4_0.gguf -c 4096
 ```
 啟動後，終端機將顯示本地網址 [http://127.0.0.1:8080](http://127.0.0.1:8080/)。通過此界面，您可以調整參數和提示詞等設置。
-![web介面示例圖1](llama-cpp\Windows-Installation\Images\image_6.png)
-![web介面示例圖2](llama-cpp\Windows-Installation\Images\image_7.png)
+![web介面示例圖1](./Images/image_6.png)
+![web介面示例圖2](./Images/image_7.png)
 
 ## 支持與貢獻
 
