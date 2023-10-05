@@ -8,7 +8,7 @@
 
 ## 🚩 目錄
 - [llama.cpp](./llama-cpp/README.md)
-  - [Windows安裝Intel CPU指南](./llama-cpp/Windows-Installation/Guide.md)
+  - [前往Windows Intel CPU安裝和配置指南](./llama-cpp/Windows-Installation/Guide.md)
 
 ## 🎉 如何運用本倉庫？
 

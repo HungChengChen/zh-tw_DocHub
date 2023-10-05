@@ -5,7 +5,7 @@
 ## 🚀 快速入門
 
 這裡的指南將引導您在配備Intel CPU的Windows系統上安裝和配置`llama.cpp`。只需按照指南一步步行走，您將順利從編譯器的安裝走到模型的運行，欣賞到llama和Alpaca這兩種中文大語言模型在您機器上的風采。
-- [前往Windows安裝和配置指南](./Windows-Installation/Guide.md)
+- [前往Windows Intel CPU安裝和配置指南](./Windows-Installation/Guide.md)
 
 ## 🌱 未來規劃
 
