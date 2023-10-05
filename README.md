@@ -2,13 +2,12 @@
 
 大家好！我是一名剛畢業不久的技術愛好者，非常喜歡研究軟硬體和AI。**zh-twTechDocs** 是我在學習和研究過程中整理和記錄下來的地方。我相信分享知識是學習的一部分，也希望我的這些記錄能對大家有所幫助！
 
-我還在尋找人生的方向和探索未來的可能，如果您有任何工作機會或者項目合作的想法，請隨時[hungcheng.chen](hungcheng.chen@outlook.com)！
-
+我還在尋找人生的方向和探索未來的可能，如果您有任何工作機會或者項目合作的想法，請隨時與我聯繫！您可以使用以下的郵件地址來找到我：[hungcheng.chen][hungcheng.chen@outlook.com]
 如果這個倉庫對您有幫助，請幫我按上一個⭐️星星，您的支持是我最大的動力！
 
 ## 🚩 目錄
 - [llama.cpp](./llama-cpp/README.md)
-  - [Windows安裝指南](./llama-cpp/Windows-Installation/Guide.md)
+  - [Windows安裝Intel CPU指南](./llama-cpp/Windows-Installation/Guide.md)
 
 ## 🎉 如何使用這個倉庫？
 
