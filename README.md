@@ -5,8 +5,8 @@
 若您覺得這裡的內容有幫助，請給個⭐️星星，您的鼓勵是我持續分享的動力！
 
 ## 🚩 目錄
-- [本地運行中文大型語言模型：llama 和 Alpaca 使用指南 📘](./LLMs_to_Your_Local_Machine/README.md)
-  - [前往Windows Intel CPU安裝和配置指南](./LLMs_to_Your_Local_Machine/Windows_Installation/Guide.md)
+- [本地運行中文大型語言模型：llama 和 Alpaca 使用指南 📘](./llama.cpp/README.md)
+  - [前往Windows Intel CPU安裝和配置指南](./llama.cpp/Windows_Installation/Guide.md)
 
 ## 🎉 如何運用本倉庫？
 
