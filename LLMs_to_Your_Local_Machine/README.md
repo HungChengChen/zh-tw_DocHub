@@ -3,7 +3,7 @@
 在開發者社區引起廣泛關注的大型語言模型（`LLMs`）開闢了無數可能性，特別在聊天機器人和內容創建等領域。現在，通過[llama.cpp](https://github.com/ggerganov/llama.cpp)這個C++庫，我們可以在本地機器上，不依賴外部雲服務，運行中文大型語言模型——`LLaMA`和`Alpaca`。
 
 # LLaMA模型簡介
-LLaMA由Meta AI設計，擁有從7億到65億參數的多樣模型，並於2023年2月24日公開發布。儘管其最小版本LLaMA 7B的規模較小，但它仍提供了顯著的語言處理能力。
+LLaMA由Meta AI設計，擁有從7億到65億參數的多樣模型，並於2023年2月24日公開發布。儘管其最小版本LLaMA 7B的規模較小，但它仍提供了顯著的語言處理能力。<br>
 官方研究論文: [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
 
 # 🚀 在 llama.cpp 中實現 LLMs 的本地運行
