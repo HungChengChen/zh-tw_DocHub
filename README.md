@@ -5,7 +5,7 @@
 若您覺得這裡的內容有幫助，請給個⭐️星星，您的鼓勵是我持續分享的動力！
 
 ## 🚩 目錄
-- [本地電腦運行對話式AI(llama.cpp)](./llama-cpp/README.md)
+- [本地運行中文大型語言模型：llama 和 Alpaca 使用指南 📘](./llama-cpp/README.md)
   - [前往Windows Intel CPU安裝和配置指南](./llama-cpp/Windows-Installation/Guide.md)
 
 ## 🎉 如何運用本倉庫？
