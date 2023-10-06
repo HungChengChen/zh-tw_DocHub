@@ -1,4 +1,4 @@
-# [llama.cpp](https://github.com/ggerganov/llama.cpp) 使用指南 📘
+# 本地電腦運行對話式AI([llama.cpp])(https://github.com/ggerganov/llama.cpp) 使用指南 📘
 
 歡迎探索 [llama.cpp](https://github.com/ggerganov/llama.cpp)！這個C++庫將指引您，不依靠外部雲服務，在自己的本地機器上運行中文大型語言模型——llama 和 Alpaca。
 

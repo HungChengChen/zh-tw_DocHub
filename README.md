@@ -7,7 +7,7 @@
 若此倉庫對您有所幫助，請賜予⭐️星星一個，您的支持是我前進的極大動力！
 
 ## 🚩 目錄
-- [llama.cpp](./llama-cpp/README.md)
+- [本地電腦運行對話式AI(llama.cpp)](./llama-cpp/README.md)
   - [前往Windows Intel CPU安裝和配置指南](./llama-cpp/Windows-Installation/Guide.md)
 
 ## 🎉 如何運用本倉庫？
