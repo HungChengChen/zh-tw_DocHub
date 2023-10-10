@@ -14,7 +14,7 @@ Windows 的子系統（WSL）安裝方式可以參考 https://learn.microsoft.co
 請注意，目前在 Windows 環境下通過 PyPI 進行安裝可能會遇到一些問題。<br>
 
 需要安裝C語言編譯器和Cmake
-## [Windows下C語言編譯器的安裝](../Windows_Installation/Guide.md#windows下c語言編譯器的安裝)
+## [Windows下C語言編譯器的安裝](../Windows_Installation/README.md#windows下c語言編譯器的安裝)
 
 ## 下載Cmake
 在這裡下載 https://cmake.org/download/

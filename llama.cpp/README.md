@@ -14,7 +14,7 @@ llama.cpp 是一個C++庫，專為在不依賴外部雲服務的情況下，在�
 
 這個快速入門指南將引導您在配備Intel CPU的Windows系統上安裝和配置llama.cpp。我們將帶領您從編譯器的安裝到模型的運行，讓您完全感受到llama和Alpaca這兩種中文大語言模型的魅力。
 
-- [前往Windows Intel CPU安裝和配置指南](./Windows_Installation/Guide.md)
+- [前往Windows Intel CPU安裝和配置指南](./Windows_Installation/README.md)
 
 # 🛠️ 技術深入：GGML與量化策略
 
