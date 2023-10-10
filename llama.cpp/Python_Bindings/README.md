@@ -29,7 +29,13 @@
 ## High-level API 使用範例
 在 model_path 參數中指定模型的位置：
 ```python
-from llama_cpp import Llama
-llm = Llama(model_path="./zh-models/7B/ggml-model-q4_0.gguf")
-output = llm("Q: Name the planets in the solar system? A: ", max_tokens=32, stop=["Q:", "\n"], echo=True)
+    from llama_cpp import Llama
+    llm = Llama(model_path="./zh-models/7B/ggml-model-q4_0.gguf")
+    output = llm("Q: Name the planets in the solar system? A: ", max_tokens=32, stop=["Q:", "\n"], echo=True)
 ```
+## Web Server
+```bash
+    pip install llama-cpp-python[server]
+    python3 -m llama_cpp.server --model zh-models/7B/ggml-model-q4_0.gguf
+```
+導航到 http://localhost:8000/docs 以查看 OpenAPI 文件。
