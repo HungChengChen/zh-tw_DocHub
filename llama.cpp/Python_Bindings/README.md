@@ -52,4 +52,4 @@ Windows 下 C 語言編譯器的安裝
 
 以下是設定的示意圖：
 
-![環境變數示例圖](./Images/image_1.png)
+![環境變數示例圖](./Images/image_0.png)
