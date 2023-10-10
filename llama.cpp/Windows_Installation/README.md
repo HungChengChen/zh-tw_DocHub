@@ -31,6 +31,8 @@
     - 在`MinGW\bin`路徑中複製`mingw32-make`，並將副本重新命名為`make`
     ![命令別名示例圖](./Images/image_4.png)
 
+[Note:順便設定好Cmake](../Windows_Installation/README.md#安裝cmake)
+
 ## 安裝llama.cpp步驟
 
 ### 1. **克隆存儲庫**
