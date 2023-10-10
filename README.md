@@ -7,6 +7,7 @@
 ## 🚩 目錄
 - [本地運行中文大型語言模型：llama 和 Alpaca 使用指南 📘](./llama.cpp/README.md)
   - [前往Windows Intel CPU安裝和配置指南](./llama.cpp/Windows_Installation/README.md)
+  - [前往基於Python的封裝調用llama.cpp](./llama.cpp/Python_Bindings/README.md)
 
 ## 🎉 如何運用本倉庫？
 
